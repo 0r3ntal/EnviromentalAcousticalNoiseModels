@@ -39,7 +39,7 @@ The EnvironmentalAcoustics class requires the following dependencies:
 - matplotlib
 
 ## Output Example
-![Alt text](noise_levels.png "draft"))
+![Alt text](noise_levels.png "draft")
 
 
 ## References

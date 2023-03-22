@@ -2,6 +2,8 @@
 
 DISCLOSURE: This project is intended to be used as a template or starting point for other projects. It is not a fully-functional or complete project and may require additional modifications and customization to be suitable for your specific needs. Use at your own risk.
 
+contact: oren.sternberg@icloud.com
+
 The EnvironmentalAcoustics class is a collection of methods for calculating different types of environmental noise levels. The following methods are included:
 
 - `traffic_noise_tnm`: Calculate traffic noise based on distance, traffic volume, speed, and road type using a simplified version of the Federal Highway Administration (FHWA) Traffic Noise Model (TNM).
@@ -37,7 +39,7 @@ The EnvironmentalAcoustics class requires the following dependencies:
 - matplotlib
 
 ## Output Example
-![Alt text](noise_levels.png "Otemplate"))
+![Alt text](noise_levels.png "draft"))
 
 
 ## References
